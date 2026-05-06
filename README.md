@@ -1,99 +1,132 @@
-# 👋 Hi, I'm Durgesh
+<!-- HEADER -->
+<div align="center">
 
-🔐 Cybersecurity Enthusiast | 💻 B.Tech CSE Student
-⚡ Building, Breaking & Securing Systems
+# Hi, I'm Durgesh 👋
+### Cybersecurity Student · SOC Analyst Aspirant · Blue Team Learner
 
----
+> *"Security is not a product, but a process."* — Bruce Schneier
 
-## 🧠 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:durgeshfore@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](YOUR_THM_URL)
 
-I’m a Computer Science student focused on cybersecurity and system-level thinking.
-I believe in learning by building, documenting, and sharing everything publicly.
-
-* 🔍 Exploring Ethical Hacking & Offensive Security
-* 🛠️ Currently learning: Networking, Linux, Web Security
-* 🎯 Goal: Become a top-tier Security Engineer
-* 📈 Documenting my journey through writeups & projects
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## 🛡️ About Me
 
-**Languages**
-`Python` `C++` `Bash`
+I'm a first-year B.Tech Computer Science student at **DYPDPU, Pune**, actively 
+building a foundation in cybersecurity through hands-on projects, labs, and 
+self-directed learning.
 
-**Tools & Platforms**
-`Linux` `Wireshark` `Nmap` `Burp Suite` `Git`
-
-**Core Concepts**
-`Networking` `Operating Systems` `Web Security` `System Internals`
-
----
-
-## 📂 What You’ll Find Here
-
-### 🔐 Cybersecurity Writeups
-
-* TryHackMe Labs
-* HackTheBox Machines
-* CTF Challenges
-* Personal Notes
+- 🔭 Currently learning: **SOC operations, Linux, networking fundamentals & Python security scripting**
+- 🏗️ Building: **Cybersecurity projects publicly on GitHub**
+- 🎯 Goal: **SOC Analyst / Security Operations Intern**
+- 🏆 Founded **Kryptonex** — a technical student club at DYPDPU
+- 🌐 Location: **Nagpur / Pune, Maharashtra, India**
+- 📧 Reach me: **durgeshfore@gmail.com**
 
 ---
 
-### 🛠️ Security Tools
+## 🧰 Tools & Technologies
 
-* Custom Python tools
-* Automation scripts
-* Practical security utilities
+**Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
----
+**Security Tools**
+![Nmap](https://img.shields.io/badge/Nmap-4A90D9?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
-### 🌐 Web Security Labs
+**Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-* XSS demonstrations
-* SQL Injection examples
-* Authentication bypass techniques
-
----
-
-### 🐧 Linux & System Notes
-
-* Command-line mastery
-* Bash scripting
-* System-level understanding
-
----
-
-## 🚀 Current Focus
-
-* Strengthening Networking fundamentals
-* Practicing Web Exploitation
-* Building beginner → advanced security tools
-* Consistent hands-on labs (TryHackMe / CTFs)
+**Dev Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vscode&logoColor=white)
 
 ---
 
-## 📌 Goals for 2026
+## 🔬 Current Learning Focus
 
-* 📖 Complete multiple security learning paths
-* 🧠 Build 5+ real-world security projects
-* 🏆 Participate in CTF competitions
-* 🌍 Contribute to open-source security tools
-
----
-
-## 📊 GitHub Philosophy
-
-> Learn in Public. Build Consistently. Document Everything.
+```
+[██████████░░░░░░] Linux Fundamentals        ~65%
+[████████░░░░░░░░] Networking (TCP/IP, DNS)  ~50%
+[██████░░░░░░░░░░] Python for Security       ~40%
+[████░░░░░░░░░░░░] SOC Operations & SIEM    ~25%
+[████░░░░░░░░░░░░] Wireshark Analysis        ~25%
+```
 
 ---
 
-## 🌐 Connect With Me
+## 📁 Featured Projects
 
-* LinkedIn: *Coming Soon*
-* Twitter/X: *Coming Soon*
+| Project | Description | Tech | Concepts |
+|---------|-------------|------|----------|
+| [🔍 port-scanner](link) | Multithreaded port & service scanner | Python, Sockets | Recon, Enumeration |
+| [🔐 password-checker](link) | Strength analyzer with policy enforcement | Python, Regex | Auth Security |
+| [🔒 secure-login-system](link) | Bcrypt hashed auth system | Python, bcrypt | Cryptography |
+| [📡 packet-sniffer](link) | Live traffic capture & analysis | Python, Scapy | Network Analysis |
+| [🗝️ file-encryptor](link) | AES file encryption/decryption tool | Python, Cryptography | Data Protection |
+| [🌐 vuln-webapp-lab](link) | Vulnerable app + security fixes | Python/HTML, OWASP | Web Security |
+| [📶 wifi-analyzer](link) | Wireless network scanner | Python, Scapy | Wireless Security |
+| [⌨️ keylogger-lab](link) | Educational input monitoring study | Python | Malware Analysis |
 
 ---
 
-🔥 *“Learn. Build. Break. Secure.”*
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Certifications & Competitions
+
+- ✅ **Google Cybersecurity Professional Certificate** — Coursera
+- 📚 **CompTIA Security+ (SY0-701)** — In preparation
+- 🏁 **Override CTF** — Participated (Cryptography, Web Exploitation, Forensics)
+- 🚀 **~4 Hackathons** — Team problem-solving & rapid prototyping
+
+---
+
+## 📖 Labs & Write-ups
+
+I actively document my learning journey:
+- 🔬 **TryHackMe labs** — room walkthroughs with notes
+- 📝 **CTF write-ups** — methodology + solutions
+- 🌐 **Networking labs** — packet captures, analysis files
+- 🐧 **Linux exercises** — commands, scripts, configs
+
+---
+
+## 🏢 Kryptonex Technical Club
+
+Founder & President of **Kryptonex** at DYPDPU — a 36-member technical 
+student club delivering structured workshops across Cybersecurity, AI, and Web Dev.
+
+Also launched **Kryptonex ISC** (Innovation & Startup Cell) for research, 
+patents, and early-stage startup projects.
+
+---
+
+<div align="center">
+
+*Always learning. Always building. Open to opportunities.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat)
+
+</div>
