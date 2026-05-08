@@ -25,7 +25,7 @@ self-directed learning.
 - 🏗️ Building: **Cybersecurity projects publicly on GitHub**
 - 🎯 Goal: **SOC Analyst / Security Operations Intern**
 - 🏆 Founded **Kryptonex** — a technical student club at DYPDPU
-- 🌐 Location: **Nagpur / Pune, Maharashtra, India**
+- 🌐 Location: **Pune, Maharashtra, India**
 - 📧 Reach me: **durgeshfore@gmail.com**
 
 ---
